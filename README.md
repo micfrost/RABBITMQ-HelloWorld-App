@@ -156,6 +156,8 @@ Made by Michal Frost
 
 # DEMO
 
+## Diagram
+![Bildschirmfoto2.png](-Screens/Bildschirmfoto2.png)
 
 
 ## helloQueue
@@ -173,5 +175,4 @@ Made by Michal Frost
 ## RabbitMQ
 ![Bildschirmfoto4.png](-Screens/Bildschirmfoto4.png)
 
-## Diagram
-![Bildschirmfoto2.png](-Screens/Bildschirmfoto2.png)
+
