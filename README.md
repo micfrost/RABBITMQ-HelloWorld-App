@@ -154,4 +154,24 @@ Thanks for checking out the project! 🚀 If you run into any issues or have que
 
 Made by Michal Frost
 
+# DEMO
+
+
+
+## helloQueue
+![Bildschirmfoto5.png](-Screens/Bildschirmfoto5.png)
+
+## worldQueue
+![Bildschirmfoto6.png](-Screens/Bildschirmfoto6.png)
+
+## Sentence
+![Bildschirmfoto7.png](-Screens/Bildschirmfoto7.png)
+
+## RabbitMQ
+![Bildschirmfoto3.png](-Screens/Bildschirmfoto3.png)
+
+## RabbitMQ
+![Bildschirmfoto4.png](-Screens/Bildschirmfoto4.png)
+
+## Diagram
 ![Bildschirmfoto2.png](-Screens/Bildschirmfoto2.png)
